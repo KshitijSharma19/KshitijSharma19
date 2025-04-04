@@ -1,6 +1,13 @@
 # 💫 About Me:
-📚 Pursuing B.Tech in CSE with a focus on real-world applications of software development<br><br>👨‍💻 Exploring Full Stack Web Development and Open Source Contributions<br><br>🚀 Participated in Smart India Hackathon (SIH 2024) and JECRC HackQuest 7.0<br><br>💡 Core team member at Coding Ninjas Technical Community<br><br>🗣️ Past core member at JECRC Incubation Centre (Content & Event Management)
+📚 Pursuing B.Tech in CSE with a focus on real-world applications of software development<br><br>👨‍💻 Exploring Full Stack Web Development and Open Source Contributions<br><br>🚀 Participated in Smart India Hackathon (SIH 2024) and JECRC HackQuest 7.0<br><br>💡 Core team member at Coding Ninjas Technical Community<br>
 
+# 🌟 What I Believe
+
+●   Growth begins at the end of your comfort zone.
+
+●   Networking isn't about asking — it's about sharing and providing value.
+
+●   Skills get you in the game but mindset keeps you there.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kshitij1920) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ksh.itijj_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kshitij1920) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kshitijsharma1920@gmail.com) 
