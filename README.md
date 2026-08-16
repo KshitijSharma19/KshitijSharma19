@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kshitij Sharma</h1>
-<h3 align="center">A Senior Computer Science engineering Student interested in software development, problem solving and building practical applications</h3>
+<h1>Hi 👋, I'm Kshitij Sharma</h1>
+<h3>A Senior Computer Science engineering Student interested in software development, problem solving and building practical applications</h3>
 
 - 🔭 I’m currently working on [Classroom Management System](https://classroom-management-system-taupe.vercel.app/)
 
