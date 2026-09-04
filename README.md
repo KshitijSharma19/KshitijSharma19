@@ -1,18 +1,74 @@
-<h1>Hi 👋, I'm Kshitij Sharma</h1>
-<h3>A Senior Computer Science engineering Student interested in software development, problem solving and building practical applications</h3>
+<div align="center">
+  <h1>Hi there, I'm Kshitij Sharma 👋</h1>
+</div>
 
-- 🔭 I’m currently working on [Classroom Management System](https://classroom-management-system-taupe.vercel.app/)
+<div align="center">
+  <a href="https://github.com/KshitijSharma19">
+    <img src="https://img.shields.io/github/followers/KshitijSharma19?label=Follow&style=flat&color=white&logo=github" alt="Follow" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=KshitijSharma19&label=Profile%20views&color=8A2BE2&style=flat" alt="Profile Views" />
+</div>
 
-- 🌱 **I’m currently learning DSA, Web Development, AI & RAG**
+<br/>
 
-- ⚡ Fun fact **I Google things I definitely should remember**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🎓 Senior Computer Science Engineering Student at **JECRC University** (Class of 2028)
+- 💻 Interested in Software development, problem solving and building practical applications
+- 🔭 I'm currently working on [Classroom Management System](https://github.com/KshitijSharma19/Classroom_Management_System)
+- 🌱 Currently exploring AI integration — LLMs & RAG
+- 👜 Ex Team Lead at JECRC Incubation Center
+- 📍 Based in Jaipur
+- ⚡ Fun fact: I Google things I definitely should remember
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Tools
 <p align="left">
-<a href="https://twitter.com/kshitij1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kshitij1920" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kshitijsharma06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitijsharma06" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kshitijsharma19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kshitijsharma19" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,react,fastapi,tailwind,mysql,postgres,sqlite" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🔥 Featured Projects
+
+### ⚡ [Classroom Management System](https://github.com/KshitijSharma19/Classroom_Management_System)
+
+`FastAPI` `React` `SQLAlchemy` `SQLite` `Tailwind CSS` `Gemini` 
+
+- Building a comprehensive **Classroom Management System** for efficient student and faculty interaction.
+- Implemented a robust backend REST API using **FastAPI** and **SQLAlchemy** with an **SQLite** database.
+- Developed a responsive and intuitive frontend user interface using **React** and **Tailwind CSS**.
+- Integrated AI features using **Google Gemini** for enhanced functionality.
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/KshitijSharma19">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:kshitijofficial1920@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/kshitijsharma06">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/Kshitij1920">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://leetcode.com/u/KshitijSharma19">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <i>⚡ "Code, solve, build, repeat."</i>
+</div>
