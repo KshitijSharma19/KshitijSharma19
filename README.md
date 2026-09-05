@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Senior Computer Science Engineering Student at **JECRC University** (Class of 2028)
+- 🎓 Senior Computer Science Engineering Student at **JECRC University** (Class of 2027)
 - 💻 Interested in Software development, problem solving and building practical applications
 - 🔭 I'm currently working on [Classroom Management System](https://github.com/KshitijSharma19/Classroom_Management_System)
 - 🌱 Currently exploring AI integration — LLMs & RAG
